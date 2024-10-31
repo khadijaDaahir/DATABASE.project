@@ -1,6 +1,6 @@
 # DATABASE.project
 
-#PROJECT TITLE:Food Fairy Backend & Farm Market Tracker 
+PROJECT TITLE:Food Fairy Backend & Farm Market Tracker 
 
 Description 
 The Food Fairy Backend is  afood management system designed to track food donation and distributioon to beneficiaries.The Farm Market Tracker os an agricultural produce and market price database to help farmers track and sell crops.
@@ -63,6 +63,5 @@ The Farm Market Tracker is a project designed to help users monitor and manage f
 Contributions are welcome for both projects! Please feel free to submit a pull request or open an issue to discuss improvements.
 
 ## License
-These projects are licensed under the MIT License - see the LICENSE file for details.
+These projects are licensed under the khadidi License - see the LICENSE file for details.
 
-</span>
